@@ -1,0 +1,6 @@
+{
+  "name": "PROMPTVERSE",
+  "description": "A modern, premium, highly animated AI Prompt Sharing Platform: browse, create, and share ChatGPT, Gemini, Claude, and Midjourney prompts with standard interactions and smooth animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
